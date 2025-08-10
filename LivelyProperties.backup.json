@@ -1,0 +1,47 @@
+{
+  "iPerspective": {
+    "max": 1000,
+    "min": 150,
+    "tick": 851,
+    "text": "View",
+    "type": "slider",
+    "value": 346
+  },
+  "iFramesToRotate": {
+    "max": 2000,
+    "min": 50,
+    "tick": 1951,
+    "text": "Rotation",
+    "type": "slider",
+    "value": 2000
+  },
+  "fGrowDuration": {
+    "max": 200,
+    "min": 10,
+    "tick": 191,
+    "text": "Grow Duration",
+    "type": "slider",
+    "value": 41
+  },
+  "fWaitDuration": {
+    "max": 200,
+    "min": 10,
+    "tick": 191,
+    "text": "Wait Duration",
+    "type": "slider",
+    "value": 110
+  },
+  "iNewParticlePerFrame": {
+    "max": 5,
+    "min": 1,
+    "tick": 5,
+    "text": "Particle/Frame",
+    "type": "slider",
+    "value": 2
+  },
+  "aColor": {
+    "text": "Color",
+    "type": "color",
+    "value": "#FFFF00"
+  }
+}
