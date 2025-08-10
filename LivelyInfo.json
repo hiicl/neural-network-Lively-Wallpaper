@@ -1,14 +1,17 @@
 {
   "AppVersion": "0.8.0.0",
-  "Title": "Sphere [Customisable]",
-  "Thumbnail": "lively_t.jpg",
-  "Preview": "lively_p.gif",
-  "Desc": "Dusty particle sphere.",
-  "Author": "Tamino Martinius",
+  "Title": "neural-network",
+  "Thumbnail": "on4tjway.jpg",
+  "Preview": "btdfnzdn.gif",
+  "Desc": "particle sphere.",
+  "Author": "hiicl",
   "License": null,
-  "Contact": "https://codepen.io/Zaku/pen/vFDdw",
+  "Contact": "https://github.com/hiicl/neural-network-Lively-Wallpaper/releases/new",
   "Type": 1,
   "FileName": "index.html",
   "Arguments": null,
-  "IsAbsolutePath": false
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
 }
